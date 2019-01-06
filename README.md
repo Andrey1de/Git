@@ -45,4 +45,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - => src/index.html : <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-- >ng generate @angular/material:nav main-nav"# Infra" 
+- >ng generate @angular/material:nav main-nav
+# Infra" 
